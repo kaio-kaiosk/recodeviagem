@@ -1,0 +1,44 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+	background: skyblue;
+}
+h1{
+	color: blue;
+	font-family: "Sofia", sans-serif;
+}
+h2{
+	color: black;
+	text-align: center;
+	font-family: "Sofia", sans-serif;
+	font-size: 60px;
+}
+h3{
+	color:gold;
+	text-align: center;
+	font-family: "Sofia", sans-serif;
+	font-size: 70px;
+}
+h4{
+	color: gold;
+	text-align: center;
+	font-family: "Sofia", sans-serif;
+	font-size: 45px;
+
+}
+.card-text{
+	color: black;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.card-title{
+	color: blue;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+.formas{
+	align-items: center;
+}
