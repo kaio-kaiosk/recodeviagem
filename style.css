@@ -29,9 +29,11 @@ h4{
 
 }
 .card-text{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 	color: black;
 	font-weight: bolder;
-	font-size: 20px;
 }
 .card-title{
 	color: blue;
@@ -41,4 +43,14 @@ h4{
 
 .formas{
 	align-items: center;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+.col-6{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 }
